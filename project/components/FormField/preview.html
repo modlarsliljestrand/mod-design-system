@@ -1,0 +1,21 @@
+<!-- @dsCard group="Actions & inputs" height=362 -->
+<!doctype html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<title>FormField</title>
+<style>.pv{padding:20px}</style>
+</head>
+<body>
+<div class="pv">
+<form class="form" onsubmit="return false">
+  <div class="row">
+    <div class="field"><label for="f1">Namn <span class="req">*</span></label><input id="f1" value="Hardware Asset Manager"><span class="hint">Det namn kollegorna känner igen.</span></div>
+    <div class="field"><label for="f2">Kategori</label><select id="f2"><option>App</option><option>Flöde</option><option>Rapport</option></select></div>
+  </div>
+  <div class="field"><label for="f3">Länk <span class="req">*</span></label><input id="f3" placeholder="https://" aria-invalid="true"><span class="ferr">Ange en länk som börjar med https://</span></div>
+  <div class="field"><label for="f4">Beskrivning</label><textarea id="f4" class="short" placeholder="Vad gör den, och för vem?"></textarea></div>
+</form>
+</div>
+</body>
+</html>

@@ -1,0 +1,331 @@
+{
+  "v": 3,
+  "layout": "files",
+  "createdOnFiles": {
+    "v": 1,
+    "at": "2026-09-29T10:08:00Z"
+  },
+  "title": "mod Design System",
+  "namespace": "Mod",
+  "libraries": [],
+  "sections": {},
+  "groups": [
+    "Logos",
+    "Icons",
+    "Fonts"
+  ],
+  "assetGroups": {
+    "Logos": {
+      "name": "Logos",
+      "tile": "l",
+      "order": [
+        "mod-logotyp-bla.png",
+        "mod-logotyp-neg.png",
+        "mod-logotyp-svart.png",
+        "mod-app-icon.svg",
+        "concept-logotyp-hierarki-1.png",
+        "construct-logotyp-hierarki-1.png",
+        "insikt-logotyp-hierarki-1.png"
+      ],
+      "files": {
+        "mod-logotyp-bla.png": {
+          "name": "mod-logotyp-bla.png",
+          "blob": "9f6087b9adc303c90d4920237266158b",
+          "size": 31918,
+          "type": "image/png"
+        },
+        "mod-logotyp-neg.png": {
+          "name": "mod-logotyp-neg.png",
+          "blob": "c8954fea713d1921fd9a7aab597386b4",
+          "size": 30947,
+          "type": "image/png"
+        },
+        "mod-logotyp-svart.png": {
+          "name": "mod-logotyp-svart.png",
+          "blob": "02ed4ddbdf6072455cf31cd172f828d3",
+          "size": 32008,
+          "type": "image/png"
+        },
+        "mod-app-icon.svg": {
+          "name": "mod-app-icon.svg",
+          "blob": "b51dc965a01e01621e3bfc8a9e82bfa1",
+          "size": 331,
+          "type": "image/svg+xml"
+        },
+        "concept-logotyp-hierarki-1.png": {
+          "name": "concept-logotyp-hierarki-1.png",
+          "blob": "33a26326e87e4496f596066e27ce8ae5",
+          "size": 53709,
+          "type": "image/png"
+        },
+        "construct-logotyp-hierarki-1.png": {
+          "name": "construct-logotyp-hierarki-1.png",
+          "blob": "12889bc280fabd917ca7532a8ad0e914",
+          "size": 54082,
+          "type": "image/png"
+        },
+        "insikt-logotyp-hierarki-1.png": {
+          "name": "insikt-logotyp-hierarki-1.png",
+          "blob": "1697ae03ac02315bcfc92cf205b65e30",
+          "size": 44189,
+          "type": "image/png"
+        }
+      }
+    },
+    "Icons": {
+      "name": "Icons",
+      "tile": "s",
+      "order": [
+        "admin.svg",
+        "apps.svg",
+        "arrow-up-right.svg",
+        "bank.svg",
+        "banknote.svg",
+        "book.svg",
+        "building.svg",
+        "card.svg",
+        "chart.svg",
+        "chat.svg",
+        "clock.svg",
+        "cloud.svg",
+        "dashboard.svg",
+        "doc.svg",
+        "flow.svg",
+        "folder.svg",
+        "grid.svg",
+        "hardhat.svg",
+        "invoice.svg",
+        "link.svg",
+        "m365.svg",
+        "mail.svg",
+        "play.svg",
+        "plus.svg",
+        "pulse.svg",
+        "receipt.svg",
+        "report.svg",
+        "search.svg",
+        "sheet.svg",
+        "shield-check.svg",
+        "slides.svg",
+        "tax.svg",
+        "upload.svg"
+      ],
+      "files": {
+        "admin.svg": {
+          "name": "admin.svg",
+          "blob": "709b6d2a22c902ed432514d4061d3f1e",
+          "size": 264,
+          "type": "image/svg+xml"
+        },
+        "apps.svg": {
+          "name": "apps.svg",
+          "blob": "37a52f4356a254f93f7bb09c49d6bbe2",
+          "size": 414,
+          "type": "image/svg+xml"
+        },
+        "arrow-up-right.svg": {
+          "name": "arrow-up-right.svg",
+          "blob": "e4586b0d123ef2e7798587fa8b8d0181",
+          "size": 220,
+          "type": "image/svg+xml"
+        },
+        "bank.svg": {
+          "name": "bank.svg",
+          "blob": "6f63def66009042a34b255faadd7d200",
+          "size": 315,
+          "type": "image/svg+xml"
+        },
+        "banknote.svg": {
+          "name": "banknote.svg",
+          "blob": "5238dc193259170475588d33dd8e15f5",
+          "size": 317,
+          "type": "image/svg+xml"
+        },
+        "book.svg": {
+          "name": "book.svg",
+          "blob": "e462beaae98bf2ac9651362e17523a55",
+          "size": 313,
+          "type": "image/svg+xml"
+        },
+        "building.svg": {
+          "name": "building.svg",
+          "blob": "531a2d80c03c3eddf98f79f0e7897a21",
+          "size": 368,
+          "type": "image/svg+xml"
+        },
+        "card.svg": {
+          "name": "card.svg",
+          "blob": "30578ac4f083e3982ea306bec57247f3",
+          "size": 274,
+          "type": "image/svg+xml"
+        },
+        "chart.svg": {
+          "name": "chart.svg",
+          "blob": "893e17cd4cbecfa960cd32cf79372845",
+          "size": 381,
+          "type": "image/svg+xml"
+        },
+        "chat.svg": {
+          "name": "chat.svg",
+          "blob": "207816c80b4e105ac5467bf373f867ec",
+          "size": 269,
+          "type": "image/svg+xml"
+        },
+        "clock.svg": {
+          "name": "clock.svg",
+          "blob": "3bfa3b9eaa42403458043a5a4b46e705",
+          "size": 256,
+          "type": "image/svg+xml"
+        },
+        "cloud.svg": {
+          "name": "cloud.svg",
+          "blob": "bc6e4ac007782856fdbbc614a7236a21",
+          "size": 247,
+          "type": "image/svg+xml"
+        },
+        "dashboard.svg": {
+          "name": "dashboard.svg",
+          "blob": "5450e0ca2c328e56248f6c6be77c7f7d",
+          "size": 409,
+          "type": "image/svg+xml"
+        },
+        "doc.svg": {
+          "name": "doc.svg",
+          "blob": "13d0addca06433de462c535b22248a71",
+          "size": 281,
+          "type": "image/svg+xml"
+        },
+        "flow.svg": {
+          "name": "flow.svg",
+          "blob": "82f8bb2eb0c48a90d03720ce33e95e81",
+          "size": 417,
+          "type": "image/svg+xml"
+        },
+        "folder.svg": {
+          "name": "folder.svg",
+          "blob": "dc9c1a5dd12d51690f7b9fa9ef97791e",
+          "size": 275,
+          "type": "image/svg+xml"
+        },
+        "grid.svg": {
+          "name": "grid.svg",
+          "blob": "b380598483e834c035d4550356c4c2b4",
+          "size": 432,
+          "type": "image/svg+xml"
+        },
+        "hardhat.svg": {
+          "name": "hardhat.svg",
+          "blob": "000fd1e0eab0ab139818c9fd6ea17bce",
+          "size": 283,
+          "type": "image/svg+xml"
+        },
+        "invoice.svg": {
+          "name": "invoice.svg",
+          "blob": "5a2b59f90573ea938cce4f938bd77a08",
+          "size": 313,
+          "type": "image/svg+xml"
+        },
+        "link.svg": {
+          "name": "link.svg",
+          "blob": "f124da435346c2f2bc8b4b6f0dfa5afe",
+          "size": 306,
+          "type": "image/svg+xml"
+        },
+        "m365.svg": {
+          "name": "m365.svg",
+          "blob": "82eecb0bdad1b8f5bc811b17f143b8b8",
+          "size": 408,
+          "type": "image/svg+xml"
+        },
+        "mail.svg": {
+          "name": "mail.svg",
+          "blob": "20d61894ee6a7f4a75a54d9f2912a07b",
+          "size": 269,
+          "type": "image/svg+xml"
+        },
+        "play.svg": {
+          "name": "play.svg",
+          "blob": "9ec670e31fe62e794af7f7cc708fb17f",
+          "size": 259,
+          "type": "image/svg+xml"
+        },
+        "plus.svg": {
+          "name": "plus.svg",
+          "blob": "026698bdaa2d5815e910906c5968871e",
+          "size": 218,
+          "type": "image/svg+xml"
+        },
+        "pulse.svg": {
+          "name": "pulse.svg",
+          "blob": "15ef4d21da8a93579cd573cf8201f776",
+          "size": 232,
+          "type": "image/svg+xml"
+        },
+        "receipt.svg": {
+          "name": "receipt.svg",
+          "blob": "e7a41842434818de01c676f51bf2db01",
+          "size": 293,
+          "type": "image/svg+xml"
+        },
+        "report.svg": {
+          "name": "report.svg",
+          "blob": "2ce3e757c8779eb17d8762042d6f3caa",
+          "size": 423,
+          "type": "image/svg+xml"
+        },
+        "search.svg": {
+          "name": "search.svg",
+          "blob": "f8b21422f907145e8fda13f279d2538c",
+          "size": 253,
+          "type": "image/svg+xml"
+        },
+        "sheet.svg": {
+          "name": "sheet.svg",
+          "blob": "ba488b6093e45c453f886fda4e65c83b",
+          "size": 283,
+          "type": "image/svg+xml"
+        },
+        "shield-check.svg": {
+          "name": "shield-check.svg",
+          "blob": "471a880197068885e47eefcfa525ffa5",
+          "size": 305,
+          "type": "image/svg+xml"
+        },
+        "slides.svg": {
+          "name": "slides.svg",
+          "blob": "8ce83b8ca21614f5866eccef575cf97a",
+          "size": 280,
+          "type": "image/svg+xml"
+        },
+        "tax.svg": {
+          "name": "tax.svg",
+          "blob": "fd52bf9b0f8988490108120a5c8a5fe9",
+          "size": 277,
+          "type": "image/svg+xml"
+        },
+        "upload.svg": {
+          "name": "upload.svg",
+          "blob": "f3f29bdb79c2f8f4ed760c380e7f2f98",
+          "size": 299,
+          "type": "image/svg+xml"
+        }
+      }
+    },
+    "Fonts": {
+      "name": "Fonts",
+      "tile": "m",
+      "order": [],
+      "files": {}
+    }
+  },
+  "blobs": {},
+  "docs": {
+    "sections": []
+  },
+  "lastChange": {
+    "by": "Lars Liljestrand",
+    "at": "2026-10-07T18:26:23Z",
+    "via": "Claude Code",
+    "note": "Hero: .hero--compact p.lead.trust (12px under the lead, 14px) so a compact hero's trust line no longer overlaps the lead; compact+trust example in the preview."
+  }
+}
